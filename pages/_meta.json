@@ -1,15 +1,18 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
+  "index": {
+    "title": "Home",
     "type": "page"
   },
-  "contact": {
-    "title": "Contact ↗",
-    "type": "page",
-    "href": "https://twitter.com/shuding_",
-    "newWindow": true
+  "ethical-hacking": {
+    "title": "Ethicak Hacking",
+    "type": "page"
+  },
+  "software-development": {
+    "title": "Software Development",
+    "type": "page"
+  },
+  "llm": {
+    "title": "LLM",
+    "type": "page"
   }
 }
