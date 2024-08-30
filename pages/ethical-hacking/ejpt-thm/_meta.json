@@ -2,5 +2,10 @@
     "index": "Introduction",
     "intro": "Introduction to Cybersecurity",
     "intro-pentest": "Introduction to Pentesting",
-    "intro-webhack": "Introduction to Web Hacking"
+    "intro-webhack": "Introduction to Web Hacking",
+    "burpsuite": "Burpsuite",
+    "network-security": "Network Security",
+    "vuln-research": "Vulnerability Research",
+    "metasploit": "Metasploit",
+    "priv-esc":"Privilege Escalation"
 }
