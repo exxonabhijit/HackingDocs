@@ -1,3 +1,5 @@
 {
-    "index": "Introduction"
+    "index": "Introduction",
+    "ollama": "Ollama",
+    "gpt4all" : "GPT4ALL"
 }
